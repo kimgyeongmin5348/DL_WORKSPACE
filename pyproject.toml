@@ -1,0 +1,32 @@
+[project]
+name = "dl-workspace"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "openpyxl>=3.1.5",
+    "numpy>=2.5.1",
+    "pandas>=3.0.5",
+    "pytz>=2026.2",
+    "requests>=2.34.2",
+    "selenium>=4.46.0",
+    "webdriver-manager>=4.1.2",
+    "xmltodict>=1.0.4",
+    "matplotlib>=3.11.1",
+    "missingno>=0.5.2",
+    "seaborn>=0.13.2",
+    "scikit-learn>=1.9.0",
+    "folium>=0.20.0",
+    "tqdm>=4.70.0",
+    "scipy>=1.18.0",
+    "konlpy>=0.6.0",
+    "mglearn>=0.2.0",
+    "pydotplus>=2.0.2",
+    "graphviz>=0.21",
+    "imbalanced-learn>=0.14.2",
+    "mlxtend>=0.25.0",
+    "torch>=2.13.0",
+    "torchvision>=0.28.0",
+]
