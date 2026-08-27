@@ -29,4 +29,5 @@ dependencies = [
     "mlxtend>=0.25.0",
     "torch>=2.13.0",
     "torchvision>=0.28.0",
+    "streamlit>=1.62.0",
 ]
