@@ -43,4 +43,5 @@ dependencies = [
     "sentencepiece>=0.2.2",
     "mecab-ko==1.0.2",
     "kss>=6.0.6",
+    "kiwipiepy>=0.23.2",
 ]
