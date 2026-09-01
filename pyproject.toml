@@ -41,5 +41,6 @@ dependencies = [
     "transformers>=5.16.1",
     "tiktoken>=0.14.0",
     "sentencepiece>=0.2.2",
-    "mecab-ko>=1.0.2",
+    "mecab-ko==1.0.2",
+    "kss>=6.0.6",
 ]
