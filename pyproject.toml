@@ -36,5 +36,10 @@ dependencies = [
     "streamlit-webrtc>=0.77.0",
     "mediapipe>=1.0.1",
     "pyautogui>=0.9.54",
-
+    "jpype1>=1.7.1",
+    "nltk>=3.10.3",
+    "transformers>=5.16.1",
+    "tiktoken>=0.14.0",
+    "sentencepiece>=0.2.2",
+    "mecab-ko>=1.0.2",
 ]
